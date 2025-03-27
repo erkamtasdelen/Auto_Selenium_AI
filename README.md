@@ -69,7 +69,7 @@ X.tryit("Go to Twitter and perform actions")
 - This tool is for **educational purposes** and should not be used for unauthorized access.
 
 ## Author
-Developed by [Your Name].
+Developed by erkamtasdelen.
 
 ## License
 This project is licensed under the MIT License.
